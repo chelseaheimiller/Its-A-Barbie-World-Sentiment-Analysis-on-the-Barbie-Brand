@@ -1,7 +1,5 @@
-# Its-A-Barbie-World-Sentiment-Analysis-on-the-Barbie-Brand
-
-It’s a Barbie World: Sentiment Analysis on the Barbie Brand
-Chelsea Heimiller
+#It’s a Barbie World: Sentiment Analysis on the Barbie Brand
+##Chelsea Heimiller
 
 Barbie has been a staple in the toybox of little girls since 1959. In 2023 the Barbie movie and Taylor Swift’s Eras Tour contributed to increased discussion around Barbie and increased spending around the brand. Saturated in sequins and pink, women are showing up and spending money to see both attractions and buy products related to them. According to CapitalOne Shopping Research, women drive up to 80% of consumer spending in the United States meaning it is profitable to understand the discussion and sentiment around the brands that are currently favorites of women (Male vs female shopping statistics (2023): Habits & Preferences 2023). To determine how receptive the public is to the Barbie brand, sentiment analysis was performed to determine the sentiment around the Barbie brand. This information can be used to allow Mattel to capitalize on women’s interests to create products that will appeal to the female audience.
 
