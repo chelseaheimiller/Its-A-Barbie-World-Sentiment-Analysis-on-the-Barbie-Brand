@@ -22,14 +22,6 @@ Both syuzhet and affin lexicons show that the overall reddit score and sentiment
  
 Figure 5: Reddit Score and Syuzhet Score		Figure 6: Reddit Score and Affin Score
  
-Positive Sentiment Score
-Negative Sentiment Score
-Positive Reddit Score
-2508
-1477
-Negative Reddit Score
-24
-37
 
 
 Figure 7: Sentiment-Score Matrix
